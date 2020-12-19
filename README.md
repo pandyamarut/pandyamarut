@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandyamarut" alt="devded" /></p>
 
-- 🔭 I’m currently working @MayaData
+- 🔭 I’m currently working on Research & development.
 - 🌱 I’m currently learning more about Distributed systems
 - 💬 Ask me about ...
   Tech, Good Reads, Research
