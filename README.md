@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandyamarut" alt="devded" /></p>
 
-- 🔭 I’m currently working on ReactJS and Golang. 
+- 🔭 I’m currently working on security product. 
 - 🌱 I’m currently learning more about Distributed systems and web3. 
 - 💬 Ask me about ...
   Tech, Good Reads, Research
