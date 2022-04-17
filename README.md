@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandyamarut" alt="devded" /></p>
 
-- 🔭 I’m currently working on security product. 
-- 🌱 I’m currently learning more about Distributed systems and web3. 
+- 🔭 I’m currently working with React & Redux, GoLang, Kubernetes. 
+- 🌱 I’m currently learning more about Distributed systems, blockchain, Machine learning. 
 - 💬 Ask me about ...
-  Tech, Good Reads, Research
-- 📫 How to reach me: ...
-  Always a ping away.
-- ⚡ Fun fact: Wanna Be a Polymath
+  Tech, Good Reads, Research, Product. 
+- 📫 How to reach me: ... 
+pandyamarut@gmail.com
+- ⚡ Fun fact: I ride horses, play basketball, guitar. old school nerd. 
 
 [![Marut's github stats](https://github-readme-stats.vercel.app/api?username=pandyamarut&show_icons=true&theme=cobalt)](https://github.com/pandyamarut/github-readme-stats)
