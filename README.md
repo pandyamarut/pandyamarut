@@ -9,6 +9,5 @@
   Tech, Good Reads, Research, Product. 
 - 📫 How to reach me: ... 
 pandyamarut@gmail.com
-- ⚡ Fun fact: I ride horses, play basketball, guitar. old school nerd. 
 
 [![Marut's github stats](https://github-readme-stats.vercel.app/api?username=pandyamarut&show_icons=true&theme=cobalt)](https://github.com/pandyamarut/github-readme-stats)
