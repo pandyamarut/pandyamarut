@@ -1,6 +1,4 @@
 # Hello, I'm Marut! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandyamarut" alt="devded" /></p>
 
 - 🔭 I’m currently working with React & Redux, GoLang, Kubernetes. 
