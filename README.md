@@ -1,7 +1,7 @@
 # Hello, I'm Marut! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandyamarut" alt="devded" /></p>
 
-- 🔭 I’m currently working with React & Redux, GoLang, Kubernetes. 
+- 🔭 I’m currently working with React & Redux, Go, Kubernetes, Python, ML/AI.  
 - 🌱 I’m currently learning more about Distributed systems, blockchain, Machine learning. 
 - 💬 Ask me about ...
   Tech, Good Reads, Research, Product. 
