@@ -9,7 +9,7 @@
 - 🏆 Goals: 
     - Write a valuable code for a good cause.
     
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandyamarut&layout=compact"/>
+
  
 - 📫 What is the best way to contact me?  
 
