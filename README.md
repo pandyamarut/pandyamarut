@@ -5,7 +5,7 @@
 
 ## I'm a POLYMATH
 
-- 🌱 I am currently learning System Design, Deep learning, Distributed Systems and CS Fundamentals.
+- 🌱 I am currently learning System Design, Deep learning, Distributed Systems and high performance computing. 
 - 🏆 Goals: 
     - Write a valuable code for a good cause.
     
