@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pandyamarut" alt="devded" /></p>
 
     
-
+Researcher, Engineer, Entrepreneur
  
 - 📫 What is the best way to contact me?  
 
